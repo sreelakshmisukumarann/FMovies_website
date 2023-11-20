@@ -1,0 +1,39 @@
+.heading{
+    color: #00acc1;
+    margin-bottom: 8px;
+    font-weight: 500;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+    color: #a1a1a1;
+    font-size: 15px;
+}
+li{
+    list-style-type: none;
+}
+.logo{
+    margin: 0 auto;
+    margin-bottom: 15px;
+    background-size: cover;
+}
+.desc {
+    font-size: 1.06rem;
+    line-height: 1.6em;
+}
+.small {
+    font-size: .8em;
+    color: #6e6e6e;
+}
+.links {margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#copyright {
+    background: #0d0e11;
+    text-align: center;
+    padding: 15px;
+    color: #333;
+    font-size: 1.1rem;
+}
